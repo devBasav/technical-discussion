@@ -14,4 +14,4 @@ This is a good example of [my code](https://gist.github.com/devBasav/335ed733b49
 
 ### Colab Example
 
-this is the [notebook]([https://gist.github.com/devBasav/335ed733b49ec1c97ab03ba22037dfef](https://github.com/devBasav/technical-discussion/blob/main/technical_docs.ipynb)
+this is the [notebook](https://github.com/devBasav/technical-discussion/blob/main/technical_docs.ipynb)
